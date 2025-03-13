@@ -1,6 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
 import Layout from "../components/Layout";
-import { Button } from "../components/ui/button";
+import { Link } from "@remix-run/react";
 
 export const meta: MetaFunction = () => {
   return [
@@ -31,7 +31,9 @@ export default function Index() {
           <p className="mt-4 mb-4 text-lg md:text-xl text-gray-400">
             With a background in teaching and software engineering, I bring a unique mix of problem-solving, creativity, and technical expertise to every project.
           </p>
-          <Button className="primary">My Projects</Button>
+          <Link to="/projects" className="primary px-4 py-2 bg-[#A713E3] text-white rounded-md shadow-md hover:bg-purple-900 transition">
+            My Projects
+          </Link>
         </div>
       </div>
     </Layout>
