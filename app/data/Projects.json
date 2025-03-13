@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "projectName": "Tradie Portal",
+    "business": "LitePages",
+    "tools": ["Illustrator", "Pug", "HTML", "CSS", "VueJS", "Nuxt", "WordPress"],
+    "description": "LitePages is an all in one back-end business platform. They take care of everything (marketing, payroll, timesheets, job bookings and many other features) so that tradies and small businesses can do what they do best - the job at hand. I was the front-end engineer and therefore responsible for building & maintaining the interface, including porting the project to the Vue JS framework and actively collaborating with the in-house UI/UX team for future developments.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 2,
+    "projectName": "Bidding Portal",
+    "business": "BidBarn",
+    "tools": ["Sketch", "Photoshop"],
+    "description": "Client owns a silent auction site where customers can sell their second-hand items to try and get the best deal. The seller adds their own price to the item and customers come in and make bids. The client wanted to streamline the bidding process - from paper forms to an app. Bidders download the app, enter the information/QR Code scan and submit bids. Bids are collected at the end of the week, sending out relevant information to winners and sellers",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 3,
+    "projectName": "Bike Portal",
+    "business": "Stay Upright",
+    "tools": ["Sketch"],
+    "description": "Stay Upright train people how to ride motorbikes. As part of that training, they provide motorcycles to Learners and hire out bikes for Provisional courses. The number of bikes determins how many people they can train. This staff portal manages the large motorcycle fleet located in 6 different locations on the East Coast. A motorbike requires attention from a mechanic. The user logs in, makes a request with relevant details, and the request is logged with the mechanic; thus setting up their jobs for the day/week. If a bike is out of service, the system notifies the office staff of bike availability which dictates how many courses they can run.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 4,
+    "projectName": "Booking and Information Website",
+    "business": "Two Sheds",
+    "tools": ["WordPress"],
+    "description": "Two Sheds is a woodworking workshop empowering women and kids to learn how to build things out of wood. Jo wanted an easy-to-use WordPress website where she can list the classes and workshops for people to book in. ",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 5,
+    "projectName": "Staff Portal",
+    "business": "Lush",
+    "tools": ["Photoshop", "Sketch"],
+    "description": "Redesign a page for the new staff interface",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 6,
+    "projectName": "Logo",
+    "business": "Pole & Aerial UK",
+    "tools": ["Illustrator"],
+    "description": "I wanted to expand my graphic design skills and saw a post on social media that some one was looking for a logo. I did this one for free as a way to give back to the pole community. This logo was used for a pole dancing competition",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 7,
+    "projectName": "Move Mentor",
+    "business": "Pole Studio",
+    "tools": ["MongoDB", "Express", "Bootstrap", "React", "NodeJS"],
+    "description": "An offshoot of PoleGuide, this app focuses on a single pole studio in Brisbane: CSolta. Teacher logs in and can view a variety of moves sorted into categories. From those moves, the teacher is able to select and assign each one to the available classes. This lesson planning allows for a variety of moves for all classes, less research time, and more organisation. A student is able to view the moves assigned to their class so they can remember what was covered and discover new moves they can request to learn. A future feature would be that students can rank their confidence levels for a move so the teacher can have real feedback and plan lessons effectively.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 8,
+    "projectName": "PoleGuide",
+    "business": "Pole Studio",
+    "tools": ["Illustrator", "VueJS"],
+    "description": "Every pole studio has their own names for moves and there is no single source of truth. PoleGuide aims to be a dictionary where students and teachers can reference moves, add their favourites, and discover new ones. Once a user has logged in, they can view the moves which have been sorted into categories. Another feature is that a user can upload images of themselves doing a pole move and by tagging the original image; other users can view both.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 9,
+    "projectName": "Tarot Reader",
+    "business": "Personal",
+    "tools": ["Python"],
+    "description": "Design, implement, and test a terminal application which accepts user input in the form of a file or text input and produces a printed output or interact with the file system. A user selects a number between 1-7 to use the program, each number having different levels of interaction.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 10,
+    "projectName": "Slownik",
+    "business": "Personal",
+    "tools": ["Illustrator", "VueJS", "Quasar"],
+    "description": "I am a visual person so when learning Polish, I wanted some flash cards. I created this website so I could practise both Polish and working with VueJS. Currently, there is no back-end but I have plans on making one to work on my back-end skills. Using Illustrator, I drew all the images myself. I wanted something cartoon-like and simple to get the point across. I used VueJS with a Quasar bundler as it was easier to get into but I plan on changing it to MUI React with a SQL database to shore up those skills.",
+    "image": "",
+    "alt": ""
+  },
+  {
+    "id": 11,
+    "projectName": "Portfolio",
+    "business": "Personal",
+    "tools": ["Remix", "React", "Shadcn/UI", "Tailwind"],
+    "description": "I like changing up my portfolio website because I can focus on the code rather than the deign and content. The original one was vanilla HTML/CSS/JS, then it evolved to include Bootstrap, then Bootstrap React, and now it's Remix and Tailwind.",
+    "image": "",
+    "alt": ""
+  }
+]

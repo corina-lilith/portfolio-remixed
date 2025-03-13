@@ -1,41 +1,48 @@
 [
   {
+    "id": 7,
     "businessName": "April9 Digital Consulting",
     "dates": "January 2025 - Present",
     "role": "Junior Full Stack Software Developer",
     "jobDescription": "Contracted to work on various greenfield projects that included modern technologies such as Remix, React, Tailwind, Shadcn/UI, and Typescript."
   },
   {
+    "id": 6,
     "businessName": "Black Sky Aerospace",
     "dates": "September 2024 - January 2025",
     "role": "Full Stack Software Developer",
     "jobDescription": "Worked on a tracking system for custom-made devices and implemented Agile practices for a software development lifecycle. I was also engaged with design work such as redesigning the business website, editing proposals, and UI/UX for the software product."
   },
   {
+    "id": 5,
     "businessName": "L3 Harris Technologies",
     "dates": "March 2021 - September 2024",
     "role": "Scrum Master, Software Developer, Tester, and Trainer",
     "jobDescription": "Hired as a software developer for cutting-edge communication systems, I also contributed as a software tester. I served as a Scrum Master for an eight-person team, onboarding new employees and creating training materials to meet contractual requirements. Additionally, I volunteered with We3, organizing workshops and events to promote workplace equality, initially focused on women in engineering before expanding to inclusivity for all."
   },
   {
+    "id": 4,
     "businessName": "LitePages",
     "dates": "March 2020 - February 2021",
     "role": "Front End Software Developer",
     "jobDescription": "Responsible for building & maintaining the front-end for a customer-facing HR & advertising platform, including porting the project to the Vue JS framework, and actively collaborating with the in-house UI/UX team for feature development."
   },
   {
+    "id": 3,
     "businessName": "Danitt Pty Ltd",
     "dates": "2016 - 2020",
     "role": "Project Manager, Graphic and UI/UX Designer, Customer Relations, and Software Testing",
     "jobDescription": "Started in project management and customer relations, later expanding into design and feature testing to support a growing client base. My curiosity led me to building and testing features myself, eventually maintaining WordPress sites and developing my own projects."
   },
   {
+    "id": 2,
     "businessName": "High School Teacher",
     "dates": "2012 - 2016",
     "role": "Art, English, Dance, Drama, Technology, Maths, Science, History, and various one-off subjects",
     "jobDescription": "Formally trained in English and Drama, I have taught various subjects in a variety of schools in both Australia and the United Kingdom. Alongside regular classroom duties, a typical workload included designing lesson plans, assignments, units of work, managing students with special needs, school excursions, fundraising, musical productions, staff training and evaluations, assisting with extra-curricular activities, and playground supervision."
   },
   {
+    "id": 1,
     "businessName": "Ride It Right Motorcycling Techniques",
     "dates": "2005 - 2012",
     "role": "Administrative Clerk",
