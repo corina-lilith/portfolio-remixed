@@ -13,19 +13,19 @@ export default function EducationDetails() {
 
         <div className="w-full max-w-3xl text-center">
           {EducationHistory.map((educ, index) => (
-            <div key={index} className="mb-8 p-6 bg-gray-900">
+            <div key={index}>
               {/* Year Heading */}
-              <h2 className="text-xl font-semibold text-primary">{educ.year}</h2>
+              <h2 className="text-xl font-semibold text-primary mt-8">{educ.year}</h2>
 
               {/* Qualifications List */}
-              <ul className="mt-2 text-gray-200 list-disc list-inside list-none">
+              <ul className="mt-2 text-gray-200 list-disc list-inside list-none mb-6">
                 {educ.qualification.map((qual, i) => (
                   <li key={i} className="mt-1">{qual}</li>
                 ))}
               </ul>
 
               {/* Decorative Image Divider */}
-              <div className="flex justify-center mt-6">
+              <div className="flex justify-center mt-8">
                 <img
                   src="/page-break.png"
                   alt="A coffee cup icon to break up education history"
