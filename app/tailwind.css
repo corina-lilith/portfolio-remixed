@@ -11,8 +11,6 @@ body {
   }
 }
 
-
-
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -78,4 +76,9 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+
+h1 {
+  @apply text-3xl font-bold md:text-4xl text-primary;
 }
