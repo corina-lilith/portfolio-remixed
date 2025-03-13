@@ -9,7 +9,9 @@ export default function Layout({ children }: LayoutProps) {
   return (
     <div className="flex flex-col min-h-screen bg-gray-900 text-white">
       <header className="flex items-center justify-between p-4 shadow-md bg-gray-900 text-white">
-        <img src="/logo.svg" alt="logo of a coffee cup with my initials" className="w-16 h-16" />
+        <Link to="/">
+          <img src="/logo.svg" alt="logo of a coffee cup with my initials" className="w-16 h-16" />
+        </Link>
         <nav>
           <ul className="flex space-x-6 text-lg">
             <li>
@@ -22,7 +24,7 @@ export default function Layout({ children }: LayoutProps) {
               <Link to="/projects" className="hover:text-[#A713E3] transition">Projects</Link>
             </li>
             <li>
-              <Link to="/work-history" className="hover:text-[#A713E3] transition">Work</Link>
+              <Link to="/work" className="hover:text-[#A713E3] transition">Work</Link>
             </li>
           </ul>
         </nav>
