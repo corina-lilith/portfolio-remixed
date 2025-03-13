@@ -27,7 +27,7 @@ export default function Layout({ children }: LayoutProps) {
           </ul>
         </nav>
       </header>
-      <main className="flex-1 container mx-auto">{children}</main>
+      <main className="flex-1 container mx-auto -mt-10 -mb-10">{children}</main>
     </div>
   );
 }
