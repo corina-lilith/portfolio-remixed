@@ -1,4 +1,4 @@
-import Layout from "../components/Layout/Layout";
+import Layout from "../components/Layout";
 import EducationHistory from "../data/EducationHistory.json";
 
 export const loader = async () => {

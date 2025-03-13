@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Knitting",
+    "image": "/about-me/knitting.png",
+    "alt": "Two hands knitting",
+    "description": "I was curious if all wool was itchy... it's not. I also wanted to swap my phone + tv habit for something healthier."
+  },
+  {
+    "id": 2,
+    "title": "Pole Fitness",
+    "image": "/about-me/pole.png",
+    "alt": "Me doing a move on the pole",
+    "description": "I love experimenting with different moves and pushing my body in all the differnet ways."
+  },
+  {
+    "id": 3,
+    "title": "Lyra",
+    "image": "/about-me/lyra.png",
+    "alt": "Me doing a move on the lyra",
+    "description": "Once a week, I go to Lyra class. It's important to have play-time and a creative outlet. I'm still afraid of heights though."
+  },
+  {
+    "id": 4,
+    "title": "Polish",
+    "image": "/about-me/polish.png",
+    "alt": "Me speaking Polish",
+    "description": "I've always wanted to learn a second language and since my in-laws are from Poland, it makes it easier to learn."
+  },
+  {
+    "id": 5,
+    "title": "Mentoring",
+    "image": "/about-me/mentoring.png",
+    "alt": "Me mentoring other people",
+    "description": "I was a teacher for a few years before switching to graphic design then eventually software development. Someday I would love to mentor other devs."
+  },
+  {
+    "id": 6,
+    "title": "Coding",
+    "image": "/about-me/coding.png",
+    "alt": "Two hands coding",
+    "description": "I like to code in my spare time. Creating something from nothing is exciting."
+  }
+] 

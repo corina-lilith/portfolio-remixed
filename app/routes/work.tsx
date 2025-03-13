@@ -1,4 +1,4 @@
-import Layout from "../components/Layout/Layout";
+import Layout from "../components/Layout";
 import WorkHistory from "../data/WorkHistory.json";
 
 export const loader = async () => {
