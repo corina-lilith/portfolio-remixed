@@ -10,7 +10,6 @@ export default function WorkDetails() {
     <Layout>
       <div className="flex flex-col items-center justify-center px-6 py-12">
         <h1 className="text-4xl font-bold mb-8 text-center">Work History</h1>
-
         <div className="w-full max-w-3xl">
           {WorkHistory.map((job, index) => (
             <div key={index} className="mb-4 p-6">
